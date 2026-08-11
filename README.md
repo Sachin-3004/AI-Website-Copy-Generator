@@ -1,5 +1,12 @@
 # AI Website Copy Generator for Local Businesses
 
+## Internship Details
+
+**Organization:** Future Interns  
+**Domain:** Prompt Engineering Internship  
+**CIN:** FIT/JUL26/PE3650  
+**Internship Period:** 13/07/2026 – 13/08/2026
+
 ## Project Overview
 
 This project demonstrates Prompt Engineering by creating high-quality website copy for a real local business.
